@@ -30,6 +30,7 @@ github_username:  jmumford
 
 # Build settings
 #theme: minimal-mistakes-jekyll
+remote_theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "dark"
 plugins:
   - jekyll-feed
