@@ -26,9 +26,7 @@ $navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
   color: inherit;
 }
 
-.ais-search-box .ais-search-box--input {
-  background-color: $form-background-color;
-}
+
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
