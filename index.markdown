@@ -1,5 +1,5 @@
 ---
-title: 'Jeanette Mumford'
+title: Jeanette Mumford
 layout: single
 author_profile: true
 header:

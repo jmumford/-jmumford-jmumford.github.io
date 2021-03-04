@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 
+title: jeanettemumford.org
 email: jeanette.mumford@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Jeanette Mumford - a statistician who cares.
@@ -27,6 +27,7 @@ url: "http://jeanettemumford.org" # the base hostname & protocol for your site, 
 twitter_username: mumbrainstats
 github_username:  jmumford
 
+include: ["_pages"]
 
 # Build settings
 #theme: minimal-mistakes-jekyll
@@ -56,7 +57,7 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 author:
- # name             : "Your Name"
+  #name             : 
   #avatar           : "/assets/images/myface_bw.png"
   #bio              : "Statistician who cares"
   location         : "Madison, WI"
@@ -76,4 +77,6 @@ author:
 
 atom_feed:
   hide: true
+
+
 
