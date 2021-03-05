@@ -25,6 +25,7 @@ Get your learn on.  The MumfordBrainStats [YouTube channel](https://www.youtube.
 
 - **Learning Mixed Models?** The MumfordBrainStats [Mixed Models Series](https://www.youtube.com/playlist?list=PLB2iAtgpI4YEAUiEQ1ZnfMXY-yewNzn9z) was designed to help users of lmer() in R gain more intuition about their models and includes a companion [bookdown with code and examples](https://jmumford.github.io/MixedModelSeries/index.html)
 
+- **Mean Centering Regressors**  This is an old one, but a commonly asked question.  Why do we mean center?  Is it always necessary?  This [document](/assets/files/mean_centering_regressors_mumford.pdf) is a quick summary of when you definitely need mean centering and when you can save yourself a few lines of code.
 
 - **Just getting started with fMRI?** Check out my [End of Summer Cram Session](https://www.youtube.com/playlist?list=PLB2iAtgpI4YHkZcDGfuKuAlQLSHx7pqLo).
 
