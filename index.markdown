@@ -32,3 +32,5 @@ Get your learn on.  The MumfordBrainStats [YouTube channel](https://www.youtube.
 - **What makes an fMRI experiment efficient?** This series on [efficiency of fMRI designs](https://www.youtube.com/playlist?list=PLB2iAtgpI4YEnBdb_jDGmMcdGoIBwhCCY) explains the concept and supplies code so you can design your own efficient study.
 
 - **Collinearity...what is it?  Is it bad?  Should I orthogonalize?**. The answer to the last question is a firm **NO**, but this [series](https://www.youtube.com/playlist?list=PLB2iAtgpI4YGoXjV-Ar_xuRIxvND9Q3WJ) answers all of these questions and more.
+
+- **Calculating percent signal change with FSL**. This is an [old one](/assets/files/perchange_guide.pdf)! Explains what featquery does and why you probably shouldn't use it (unless they've changed it, but I don't think so).  Most importantly, the calculation is simple and why not do it yourself so you are 100% sure what was done?
