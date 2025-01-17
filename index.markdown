@@ -15,6 +15,11 @@ I have a PhD in Biostatistics with a specialty in the analysis of fMRI data.  I 
 
 ---
 
+# Latest publications
+## [The response time paradox in functional magnetic resonance imaging analyses](/assets/files/response_time_paradox_mumford.pdf) 
+Work with myself, Patrick Bissett, Henry Jones, Sunjae Shim, Jaime Ali H. Rios and Russell Poldrack, focusing on the impact response time durations can have on the BOLD signal and estimated effect sizes when RTs are not explicitly modeled.  An easy to use modeling solution is presented and compared to other approaches.
+
+
 # Book
 
 [Handbook of Functional MRI Data Analysis](https://www.cambridge.org/core/books/handbook-of-functional-mri-data-analysis/8EDF966C65811FCCC306F7C916228529) by Russel A Poldrack, Jeanette Mumford and Thomas E Nichols
